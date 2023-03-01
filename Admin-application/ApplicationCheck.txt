@@ -1,0 +1,22 @@
+// ==== Check ===== // 
+
+1. Create category option 
+    Email 
+
+2. Update category option 
+
+3. Delete category option 
+
+4. Upload Product 
+
+5. Delete Product 
+
+6. Delete Banner image 
+
+7. Upload Banner image 
+
+8. Update Banner image 
+
+9. Latest Product upload 
+
+Barcode data = User_id**Order_id**Username**Mobile_number

@@ -1,0 +1,30 @@
+
+
+
+// ===== Admin notification message ===== // 
+
+1. Create category
+
+2. Delete category 
+
+3. Update admin password value 
+
+4. Admin login time 
+
+5. Delete application banner image time 
+
+6. Upload new application banner image time
+
+7. Update application banner image
+
+8. Cancel custom cake order notification 
+
+9. Cancel normal order notification 
+
+10. Upload latest product images time 
+
+11. New location enter time 
+
+12. Delete delivery location time 
+
+13. Complete order
